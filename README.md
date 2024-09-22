@@ -34,7 +34,7 @@ The frontend is hosted on Vercel: [YouTube Clone Frontend](https://yt-clone-null
 ### Local Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Sarathchowdary1/YOUTUBECLONE-NULLCLASS.git
+   git clone https://github.com/SarthakRay26/YT-Clone-Nullclass.git
    cd YouTubeClone-NullClass
    ```
 
