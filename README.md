@@ -26,10 +26,8 @@ This project involved enhancing a YouTube-inspired web application with three pr
 
 ## Setup Instructions
 ### Frontend
-The frontend is hosted on Vercel: [YouTube Clone Frontend](https://you-tube-clone-frontend-xi.vercel.app/)
+The frontend is hosted on Vercel: [YouTube Clone Frontend](https://yt-clone-nullclass-front.vercel.app//)
    
-### Backend
-The backend is hosted on Render: [YouTube Clone Backend](https://youtubeclone-nullclass.onrender.com/)
 
 **Note:** If the frontend does not load correctly, please reload the Render site as it may be required due to free tier limitations.
 
